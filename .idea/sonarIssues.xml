@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/web/service/BeerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
