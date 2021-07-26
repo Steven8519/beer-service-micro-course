@@ -48,6 +48,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/web/mappers/BeerMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/web/mappers/DateMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/web/model/BeerDto.java">
           <value>
             <set />
