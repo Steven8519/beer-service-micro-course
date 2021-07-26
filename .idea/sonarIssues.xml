@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/repository/BeerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/web/controller/BeerControler.java">
           <value>
             <set />
