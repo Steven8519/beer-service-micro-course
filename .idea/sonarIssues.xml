@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/bootstrap/BeerLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/domain/Beer.java">
           <value>
             <set />
