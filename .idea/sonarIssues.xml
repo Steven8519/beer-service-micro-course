@@ -8,7 +8,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../beer-works-course/beer-works/src/main/java/com/beer/core/beerworkscourse/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../beer-works-course/beer-works/src/main/java/com/beer/core/beerworkscourse/service/CustomerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../beer-works-course/beer-works/src/main/java/com/beer/core/beerworkscourse/web/controller/BeerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/beer/core/beerservicemicrocourse/domain/Beer.java">
           <value>
             <set />
           </value>
@@ -43,7 +63,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/src/main/java/com/beer/client/core/beerclient/web/client/BreweryClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/src/main/java/com/beer/client/core/beerclient/web/client/Packagenfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/src/main/java/com/beer/client/core/beerclient/web/model/BeerDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/src/main/java/com/beer/client/core/beerclient/web/model/CustomerDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/beer-client/src/test/java/com/beer/client/core/beerclient/web/client/BreweryClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>
